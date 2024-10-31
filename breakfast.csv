@@ -1,0 +1,44 @@
+Category,Item,Serving Size,Calories,Calories from Fat,Total Fat,Total Fat (% Daily Value),Saturated Fat,Saturated Fat (% Daily Value),Trans Fat,Cholesterol,Cholesterol (% Daily Value),Sodium,Sodium (% Daily Value),Carbohydrates,Carbohydrates (% Daily Value),Dietary Fiber,Dietary Fiber (% Daily Value),Sugars,Protein,Vitamin A (% Daily Value),Vitamin C (% Daily Value),Calcium (% Daily Value),Iron (% Daily Value)
+Breakfast,Egg McMuffin,4.8 oz (136 g),300,120,13,20,5,25,0,260,87,750,31,31,10,4,17,3,17,10,0,25,15
+Breakfast,Egg White Delight,4.8 oz (135 g),250,70,8,12,3,15,0,25,8,770,32,30,10,4,17,3,18,6,0,25,8
+Breakfast,Sausage McMuffin,3.9 oz (111 g),370,200,23,35,8,42,0,45,15,780,33,29,10,4,17,2,14,8,0,25,10
+Breakfast,Sausage McMuffin with Egg,5.7 oz (161 g),450,250,28,43,10,52,0,285,95,860,36,30,10,4,17,2,21,15,0,30,15
+Breakfast,Sausage McMuffin with Egg Whites,5.7 oz (161 g),400,210,23,35,8,42,0,50,16,880,37,30,10,4,17,2,21,6,0,25,10
+Breakfast,Steak & Egg McMuffin,6.5 oz (185 g),430,210,23,36,9,46,1,300,100,960,40,31,10,4,18,3,26,15,2,30,20
+Breakfast,"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",5.3 oz (150 g),460,230,26,40,13,65,0,250,83,1300,54,38,13,2,7,3,19,10,8,15,15
+Breakfast,"Bacon, Egg & Cheese Biscuit (Large Biscuit)",5.8 oz (164 g),520,270,30,47,14,68,0,250,83,1410,59,43,14,3,12,4,19,15,8,20,20
+Breakfast,"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",5.4 oz (153 g),410,180,20,32,11,56,0,35,11,1300,54,36,12,2,7,3,20,2,8,15,10
+Breakfast,"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",5.9 oz (167 g),470,220,25,38,12,59,0,35,11,1420,59,42,14,3,12,4,20,6,8,15,15
+Breakfast,Sausage Biscuit (Regular Biscuit),4.1 oz (117 g),430,240,27,42,12,62,0,30,10,1080,45,34,11,2,6,2,11,0,0,6,15
+Breakfast,Sausage Biscuit (Large Biscuit),4.6 oz (131 g),480,280,31,48,13,65,0,30,10,1190,50,39,13,3,11,3,11,4,0,8,15
+Breakfast,Sausage Biscuit with Egg (Regular Biscuit),5.7 oz (163 g),510,290,33,50,14,71,0,250,83,1170,49,36,12,2,6,2,18,6,0,10,20
+Breakfast,Sausage Biscuit with Egg (Large Biscuit),6.2 oz (177 g),570,330,37,57,15,74,0,250,83,1280,53,42,14,3,11,3,18,10,0,10,20
+Breakfast,Sausage Biscuit with Egg Whites (Regular Biscuit),5.9 oz (167 g),460,250,27,42,12,62,0,35,11,1180,49,34,11,2,6,3,18,0,0,8,15
+Breakfast,Sausage Biscuit with Egg Whites (Large Biscuit),6.4 oz (181 g),520,280,32,49,13,65,0,35,11,1290,54,40,13,3,11,3,18,4,0,8,15
+Breakfast,Southern Style Chicken Biscuit (Regular Biscuit),5 oz (143 g),410,180,20,31,8,41,0,30,10,1180,49,41,14,2,6,3,17,0,2,6,15
+Breakfast,Southern Style Chicken Biscuit (Large Biscuit),5.5 oz (157 g),470,220,24,37,9,45,0,30,10,1290,54,46,15,3,11,4,17,4,2,8,15
+Breakfast,Steak & Egg Biscuit (Regular Biscuit),7.1 oz (201 g),540,290,32,49,16,78,1,280,93,1470,61,38,13,2,8,3,25,10,2,20,25
+Breakfast,"Bacon, Egg & Cheese McGriddles",6.1 oz (174 g),460,190,21,32,9,44,0,250,84,1250,52,48,16,2,9,15,19,10,10,20,15
+Breakfast,"Bacon, Egg & Cheese McGriddles with Egg Whites",6.3 oz (178 g),400,140,15,24,7,34,0,35,11,1250,52,47,16,2,9,16,20,2,10,15,10
+Breakfast,Sausage McGriddles,5 oz (141 g),420,200,22,34,8,40,0,35,11,1030,43,44,15,2,8,15,11,0,0,8,10
+Breakfast,"Sausage, Egg & Cheese McGriddles",7.1 oz (201 g),550,280,31,48,12,61,0,265,89,1320,55,48,16,2,9,15,20,10,0,20,15
+Breakfast,"Sausage, Egg & Cheese McGriddles with Egg Whites",7.2 oz (205 g),500,230,26,40,10,52,0,50,17,1320,55,46,15,2,9,15,21,2,0,20,10
+Breakfast,"Bacon, Egg & Cheese Bagel",6.9 oz (197 g),620,280,31,48,11,56,0.5,275,92,1480,62,57,19,3,11,7,30,20,15,20,20
+Breakfast,"Bacon, Egg & Cheese Bagel with Egg Whites",7.1 oz (201 g),570,230,25,39,9,45,0.5,60,20,1480,62,55,18,3,12,8,30,10,15,20,15
+Breakfast,"Steak, Egg & Cheese Bagel",8.5 oz (241 g),670,310,35,53,13,63,1.5,295,99,1510,63,56,19,3,12,7,33,20,4,25,25
+Breakfast,Big Breakfast (Regular Biscuit),9.5 oz (269 g),740,430,48,73,17,87,0,555,185,1560,65,51,17,3,12,3,28,15,2,15,25
+Breakfast,Big Breakfast (Large Biscuit),10 oz (283 g),800,470,52,80,18,90,0,555,185,1680,70,56,19,4,17,3,28,15,2,15,30
+Breakfast,Big Breakfast with Egg Whites (Regular Biscuit),9.6 oz (272 g),640,330,37,57,14,69,0,35,12,1590,66,50,17,3,12,3,26,0,2,10,15
+Breakfast,Big Breakfast with Egg Whites (Large Biscuit),10.1 oz (286 g),690,370,41,63,14,72,0,35,12,1700,71,55,18,4,17,4,26,4,2,10,15
+Breakfast,Big Breakfast with Hotcakes (Regular Biscuit),14.8 oz (420 g),1090,510,56,87,19,96,0,575,192,2150,90,111,37,6,23,17,36,15,2,25,40
+Breakfast,Big Breakfast with Hotcakes (Large Biscuit),15.3 oz (434 g),1150,540,60,93,20,100,0,575,192,2260,94,116,39,7,28,17,36,15,2,30,40
+Breakfast,Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),14.9 oz (423 g),990,410,46,70,16,78,0,55,19,2170,91,110,37,6,23,17,35,0,2,25,30
+Breakfast,Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),15.4 oz (437 g),1050,450,50,77,16,81,0,55,19,2290,95,115,38,7,28,18,35,4,2,25,30
+Breakfast,Hotcakes,5.3 oz (151 g),350,80,9,13,2,9,0,20,7,590,24,60,20,3,10,14,8,0,0,15,15
+Breakfast,Hotcakes and Sausage,6.8 oz (192 g),520,210,24,37,7,36,0,50,17,930,39,61,20,3,10,14,15,0,0,15,15
+Breakfast,Sausage Burrito,3.9 oz (111 g),300,150,16,25,7,33,0,115,38,790,33,26,9,1,5,2,12,10,2,15,15
+Breakfast,Hash Brown,2 oz (56 g),150,80,9,14,1.5,6,0,0,0,310,13,15,5,2,6,0,1,0,2,0,2
+Breakfast,Cinnamon Melts,4 oz (114 g),460,170,19,30,9,43,0,15,5,370,15,66,22,3,11,32,6,4,0,6,15
+Breakfast,Fruit & Maple Oatmeal,9.6 oz (251 g),290,35,4,6,1.5,8,0,5,2,160,7,58,19,5,19,32,5,2,130,10,10
+Breakfast,Fruit & Maple Oatmeal without Brown Sugar,9.6 oz (251 g),260,40,4,6,1.5,8,0,5,2,115,5,49,16,5,22,18,5,2,130,6,10
+Beef & Pork,Big Mac,7.4 oz (211 g),530,240,27,42,10,48,1,85,28,960,40,47,16,3,13,9,24,6,2,25,25
