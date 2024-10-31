@@ -1,21 +1,24 @@
-Calories
-Calories from Fat
-Total Fat
-Total Fat (% Daily Value)
-Saturated Fat
-Saturated Fat (% Daily Value)
-Trans Fat
-Cholesterol
-Cholesterol (% Daily Value)
-Sodium
-Sodium (% Daily Value)
-Carbohydrates
-Carbohydrates (% Daily Value)
-Dietary Fiber
-Dietary Fiber (% Daily Value)
-Sugars
-Protein
-Vitamin A (% Daily Value)
-Vitamin C (% Daily Value)
-Calcium (% Daily Value)
-Iron (% Daily Value)
+category
+item
+serving_size
+calories
+calories_from_fat
+total_fat
+total_fat_percent_daily_value
+saturated_fat
+saturated_fat_percent_daily_value
+trans_fat
+cholesterol
+cholesterol_percent_daily_value
+sodium
+sodium_percent_daily_value
+carbohydrates
+carbohydrates_percent_daily_value
+dietary_fiber
+dietary_fiber_percent_daily_value
+sugars
+protein
+vitamin_a_percent_daily_value
+vitamin_c_percent_daily_value
+calcium_percent_daily_value
+iron_percent_daily_value

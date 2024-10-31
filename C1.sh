@@ -23,4 +23,13 @@ csvsql --query "SELECT Item, Calper100g FROM mcdonalds_menu_2 ORDER BY Calper100
 
 csvsql --query "SELECT Item, Calper100g FROM mcdonalds_menu_2 WHERE Calper100g > 0 ORDER BY Calper100g LIMIT 0, 3" ./mcdonalds_menu_2.csv >> top.csv
 
-csvstat ./dir/mcdonalds_menu.csv --type | grep "Number" | cut -d: -f 1 | cut -c 6- > vars_to_plot.txt
+./colnames.R > vars_to_plot.txt
+
+mkdir histograms
+
+for i in {1..21}
+do
+   aux=`sed "$i!d" vars_to_plot.txt`
+   echo $aux
+   rush plot --x "$aux" ./dir/mcdonalds_menu.csv > ./histograms/$aux.png
+done
