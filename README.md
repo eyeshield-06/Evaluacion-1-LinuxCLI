@@ -1,6 +1,8 @@
 # Sol Evaluacion 1
 
-**Whatever happens**
+Archivo principal
+
+> C1.sh
 
 ![...](./wall/lofivibe.jpg)
 
@@ -12,3 +14,5 @@ chmod +x *.R
 ```
 
 ademas como comentario hay archivos que no eran solicitados pero se usaron como auxiliares.
+
+![video](https://github.com/eyeshield-06/Evaluacion-1-LinuxCLI/issues/1#issue-2628014675)
