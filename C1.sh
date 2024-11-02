@@ -48,9 +48,9 @@ csvsql --query "SELECT Item, Calper100g FROM mcdonalds_menu_2 WHERE Calper100g >
 
 mkdir histograms
 
-# 21, ya que es el output de
-# sh: wc -l vars_to_plot.txt
-for i in {1..21}
+n=$(wc -l vars_to_plot.txt | cut -d' ' -f 1)
+
+for (( i=1 ; i<=$n ; i++ )); 
 do
    aux=`sed "$i!d" vars_to_plot.txt`
    echo $aux
