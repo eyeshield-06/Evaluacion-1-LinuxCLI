@@ -1,6 +1,3 @@
-category
-item
-serving_size
 calories
 calories_from_fat
 total_fat
